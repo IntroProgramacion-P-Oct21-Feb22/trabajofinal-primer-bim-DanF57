@@ -1,5 +1,5 @@
 # Trabajo Final del Primer Bimestre
-
+INTEGRANTES: Daniel Flores y Francisco Estrada
 ## Actividades
 
 * Por cada problemáticas realizar las siguientes actividades
